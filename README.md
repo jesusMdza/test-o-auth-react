@@ -1,2 +1,2 @@
 # Testing OAuth with React
-Refer to `OAuthReact` project for .env variables
+Refer to `OAuthReact` project in Google Cloud Platform for .env variables
